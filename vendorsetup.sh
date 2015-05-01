@@ -1,4 +1,2 @@
-for combo in flo grouper mako hammerhead
-do
-    add_lunch_combo $combo-userdebug
-done
+add_lunch_combo eos_cancro-userdebug
+add_lunch_combo eos_cancro-eng
